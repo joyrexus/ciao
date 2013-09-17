@@ -37,6 +37,16 @@
     loro  hanno
 
 
+## mangiare (to eat)
+
+    io    mangio
+    tu    mangi
+    lui   mangia
+    noi   mangiamo
+    voi   mangiate
+    loro  mangiano
+
+
 ## bere (to drink)
 
     io    bevo
@@ -45,6 +55,26 @@
     noi   beviamo
     voi   bevete
     loro  bevono
+
+
+## tagliare (to cut)
+
+    io    taglio
+    tu    tagli
+    lei   taglia
+    noi   tagliamo
+    voi   tagliate
+    loro  tagliano
+
+
+## cucinare (to cook)
+
+    io    cucino
+    tu    cucini
+    lei   cucina
+    noi   cuciniamo
+    voi   cucinate
+    loro  cucinano
 
 
 ## leggo (to read)

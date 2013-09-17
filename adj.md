@@ -7,3 +7,9 @@ Most adjectives match their noun in gender and number.
 Shoe is feminine, so the adjectives change to *la scarpa bianca* and *le
 scarpe bianche*.
 
+
+    spiacente     sorry
+
+## Colors
+
+    nero, neri    black
