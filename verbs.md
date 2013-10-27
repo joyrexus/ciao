@@ -89,9 +89,19 @@
 
 ## scrivere (to write)
 
-    io  scrivo
-    tu  scrivi
-    lei scrive
-    noi scriviamo
-    voi scrivete
-    loro scrivono
+    io    scrivo
+    tu    scrivi
+    lei   scrive
+    noi   scriviamo
+    voi   scrivete
+    loro  scrivono
+
+
+## comprare (to buy)
+
+    io    compro
+    tu    compri
+    lei   compra
+    noi   compriamo
+    voi   comprate
+    loro  comprano
