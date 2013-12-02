@@ -105,3 +105,44 @@
     noi   compriamo
     voi   comprate
     loro  comprano
+
+
+## venire (to come)
+
+    io    vengo
+    tu    vieni
+    lei   viene
+    noi   veniamo
+    voi   venite
+    loro  vengono
+
+
+## potere (to be able)
+
+    io    posso
+    tu    puoi
+    lei   può
+    noi   possiamo
+    voi   potete
+    loro  possono
+
+
+## fare (to make)
+
+    io    faccio
+    tu    fai
+    lei   fa
+    noi   facciamo
+    voi   fate
+    loro  fanno
+
+
+## volere (to want)
+
+    io    voglio
+    tu    vuoi
+    lei   vuole
+    noi   vogliamo
+    voi   volete
+    loro  vogliono
+
