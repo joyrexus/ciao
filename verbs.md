@@ -77,7 +77,7 @@
     loro  cucinano
 
 
-## leggo (to read)
+## legere (to read)
 
     io    leggo
     tu    leggi
@@ -145,4 +145,54 @@
     noi   vogliamo
     voi   volete
     loro  vogliono
+
+
+## andare (to go)
+
+    io    vado
+    tu    vai
+    lei   va
+    noi   andiamo
+    voi   andate
+    loro  vanno
+
+
+## vedere (to see)
+
+    io    vedo
+    tu    vedi
+    lei   vede
+    noi   vediamo
+    voi   vedete
+    loro  vedono
+
+
+## sapere (to know)
+
+    io    so
+    tu    sai
+    lei   sa
+    noi   sappiamo
+    voi   sapete
+    loro  sanno
+
+
+## dire (to say)
+
+    io  dico
+    tu  dici
+    lei dice
+    noi diciamo
+    voi dite
+    loro  dicono
+
+
+## trovare (to find)
+
+    io  trovo
+    tu  trovi
+    lui/lei trova
+    noi troviamo
+    voi trovate
+    loro  trovano
 
