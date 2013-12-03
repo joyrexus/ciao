@@ -77,7 +77,7 @@
     loro  cucinano
 
 
-## legere (to read)
+## leggere (to read)
 
     io    leggo
     tu    leggi
