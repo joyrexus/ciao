@@ -196,3 +196,12 @@
     voi trovate
     loro  trovano
 
+
+## dare (to give)
+
+    io  dò
+    tu  dai
+    lui/lei da
+    noi diamo
+    voi date
+    loro  danno
